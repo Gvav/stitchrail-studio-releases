@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.0/StitchRail-Studio-Setup-0.3.0.exe",
-  "sha256": "1b9e3a083f87f8f89340af810f338d2644b10604f774213e8df4c98ea787ef68",
-  "size": 218034120,
-  "notes": "Automatic update checks, verified downloads, and one-click installation."
+  "version": "0.3.1",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.1/StitchRail-Studio-Setup-0.3.1.exe",
+  "sha256": "18a08bca3bf8451f2e1b9d8fd27366f660a979f30f10236f4829d2432b71f4fa",
+  "size": 218050736,
+  "notes": "Modern toolbar icons and refreshed toolbar styling."
 }
