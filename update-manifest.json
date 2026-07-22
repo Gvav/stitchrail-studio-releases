@@ -1,7 +1,7 @@
 {
-  "version": "0.3.5",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.5/StitchRail-Studio-Setup-0.3.5.exe",
-  "sha256": "69169b316c96efe03faccca6469e1cd3db3a45eb6b419b0a5b00095033951a8c",
-  "size": 93222749,
-  "notes": "Always-visible arrows, five selectable themes, named Downloads updates, lowest-point mirroring, and STEP defaults."
+  "version": "0.3.6",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.6/StitchRail-Studio-Setup-0.3.6.exe",
+  "sha256": "83f409e4faa19c14175194a1110c06c9f71c0f2c57e9b19105ed8462fdb00448",
+  "size": 93221020,
+  "notes": "High-visibility numeric-field up and down arrows in every theme."
 }
