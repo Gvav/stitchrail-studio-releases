@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.2/StitchRail-Studio-Setup-0.3.2.exe",
-  "sha256": "5c1e833907af9c25d160e2deb009ab377bf53c3e8883a770c238da3139b1a964",
-  "size": 218006040,
-  "notes": "Modern toolbar icons plus reliable update progress, completion, and cancellation."
+  "version": "0.3.3",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.3/StitchRail-Studio-Setup-0.3.3.exe",
+  "sha256": "c56eb287dfa51779b11021125ef395ee4a22e2cc19c3f06fd0330712386c8be9",
+  "size": 218053708,
+  "notes": "Repeat-tab controls, single ghost row, and seamless selected-pattern movement."
 }
