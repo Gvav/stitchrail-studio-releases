@@ -1,7 +1,7 @@
 {
-  "version": "0.3.6",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.6/StitchRail-Studio-Setup-0.3.6.exe",
-  "sha256": "83f409e4faa19c14175194a1110c06c9f71c0f2c57e9b19105ed8462fdb00448",
-  "size": 93221020,
-  "notes": "High-visibility numeric-field up and down arrows in every theme."
+  "version": "0.3.7",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.7/StitchRail-Studio-Setup-0.3.7.exe",
+  "sha256": "dfe9e16ffb9278fccfb504f81ef64bdedf70db4202c8ec301ca1ca0e959f063a",
+  "size": 93228104,
+  "notes": "Unified pattern grouping, joined repeat fitting, grouped editing, and proportional pattern resizing."
 }
