@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.10/StitchRail-Studio-Setup-0.3.10.exe",
-  "sha256": "ac0451a38e64bae534baff9de489afec96bf7ccea6a399be3e0510b38c616415",
-  "size": 93234872,
-  "notes": "Prefilled Downloads filename and backward-compatible automatic application relaunch after installing updates."
+  "version": "0.3.11",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.11/StitchRail-Studio-Setup-0.3.11.exe",
+  "sha256": "dfb3ef7937e1dc53a51e4b6ce5553a9739f85c6b46185d6d09fe89a3c81071f4",
+  "size": 93252965,
+  "notes": "Frequency-aware ghost X alignment with quarter- and half-pattern shifts, plus faster application startup."
 }
