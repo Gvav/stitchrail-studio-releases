@@ -1,7 +1,7 @@
 {
-  "version": "0.3.8",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.8/StitchRail-Studio-Setup-0.3.8.exe",
-  "sha256": "f00edd5008158bd54860e6671a25e8c087f18a5090d3c6ddb975efa5c4396bce",
-  "size": 93222207,
-  "notes": "Fifty original edge-to-edge patterns and a scrollable three-column visual pattern library."
+  "version": "0.3.9",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.9/StitchRail-Studio-Setup-0.3.9.exe",
+  "sha256": "d9696730b396f10d4d17ee0b3bcf880d831346e3ca8724ec2799f668b218d4e9",
+  "size": 93248088,
+  "notes": "Prefilled Downloads filename and automatic application relaunch after installing updates."
 }
