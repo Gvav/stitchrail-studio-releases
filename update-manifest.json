@@ -1,7 +1,7 @@
 {
-  "version": "0.3.11",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.11/StitchRail-Studio-Setup-0.3.11.exe",
-  "sha256": "dfb3ef7937e1dc53a51e4b6ce5553a9739f85c6b46185d6d09fe89a3c81071f4",
-  "size": 93252965,
-  "notes": "Frequency-aware ghost X alignment with quarter- and half-pattern shifts, plus faster application startup."
+  "version": "0.3.12",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.12/StitchRail-Studio-Setup-0.3.12.exe",
+  "sha256": "27bf6414d177d4a6e9cd22da6ec90087f0aa332a6ad388cd30a99972097cddf4",
+  "size": 93238630,
+  "notes": "Keeps the application window fully visible when opening after monitor, resolution, or display-scaling changes."
 }
