@@ -1,7 +1,7 @@
 {
-  "version": "0.3.7",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.7/StitchRail-Studio-Setup-0.3.7.exe",
-  "sha256": "dfe9e16ffb9278fccfb504f81ef64bdedf70db4202c8ec301ca1ca0e959f063a",
-  "size": 93228104,
-  "notes": "Unified pattern grouping, joined repeat fitting, grouped editing, and proportional pattern resizing."
+  "version": "0.3.8",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.8/StitchRail-Studio-Setup-0.3.8.exe",
+  "sha256": "f00edd5008158bd54860e6671a25e8c087f18a5090d3c6ddb975efa5c4396bce",
+  "size": 93222207,
+  "notes": "Fifty original edge-to-edge patterns and a scrollable three-column visual pattern library."
 }
