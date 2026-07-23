@@ -1,7 +1,7 @@
 {
-  "version": "0.3.12",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.12/StitchRail-Studio-Setup-0.3.12.exe",
-  "sha256": "27bf6414d177d4a6e9cd22da6ec90087f0aa332a6ad388cd30a99972097cddf4",
-  "size": 93238630,
-  "notes": "Keeps the application window fully visible when opening after monitor, resolution, or display-scaling changes."
+  "version": "0.3.13",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.13/StitchRail-Studio-Setup-0.3.13.exe",
+  "sha256": "4ab1e1ae53459996a21e37c5827ae5d9096afca03ed371db566d9f95fa80a106",
+  "size": 93234563,
+  "notes": "Streamlined updates: automatic Downloads-folder destination, one install confirmation, and a final choice to open the app."
 }
