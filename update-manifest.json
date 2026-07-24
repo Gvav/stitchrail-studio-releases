@@ -1,7 +1,7 @@
 {
-  "version": "0.3.13",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.13/StitchRail-Studio-Setup-0.3.13.exe",
-  "sha256": "4ab1e1ae53459996a21e37c5827ae5d9096afca03ed371db566d9f95fa80a106",
-  "size": 93234563,
-  "notes": "Streamlined updates: automatic Downloads-folder destination, one install confirmation, and a final choice to open the app."
+  "version": "0.3.14",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.14/StitchRail-Studio-Setup-0.3.14.exe",
+  "sha256": "d2891eb014a1c5342bd9f743fb2a7ca5228e9476154163395e7c0756a064eb0f",
+  "size": 93241411,
+  "notes": "Premade patterns retain their shape when moved; normal drag moves the whole pattern and Alt-drag reshapes a point."
 }
