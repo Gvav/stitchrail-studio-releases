@@ -1,7 +1,7 @@
 {
-  "version": "0.3.15",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.15/StitchRail-Studio-Setup-0.3.15.exe",
-  "sha256": "c0218aaf12ebe8efc867a02484549bcd8682c611eab7821fb84dcfbd85c8cda5",
-  "size": 93275986,
-  "notes": "Stable X-axis repeat movement, multiple patterns per board, true uniform pattern scaling, clean freehand previews, and gradual repeat-edge blending."
+  "version": "0.3.16",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.16/StitchRail-Studio-Setup-0.3.16.exe",
+  "sha256": "dd436ad619b737582adb490cf612e03f0ec33d9e9768efb45920413b0ca9d30b",
+  "size": 93250973,
+  "notes": "Repeat-aware resizing, X-axis mirroring, editable spline arches and circles, Shift multi-selection, separate SVG path selection, and an explicit rectangle-select tool."
 }
