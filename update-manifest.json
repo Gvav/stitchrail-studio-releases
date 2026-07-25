@@ -1,7 +1,7 @@
 {
-  "version": "0.3.19",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.19/StitchRail-Studio-Setup-0.3.19.exe",
-  "sha256": "30a259e5caf79d3158db09e7f21976f153f50d27dec9f71f5cf83bc2715fda9f",
-  "size": 93261577,
-  "notes": "Y-axis mirroring, editable three-handle circles and half-circles, safe repeated scaling, independent duplicates, and bridge placement shadows."
+  "version": "0.3.20",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.20/StitchRail-Studio-Setup-0.3.20.exe",
+  "sha256": "307ba61d45917fd7e64d4a032e06c48408cf3c32fe734af0bdb0f2c913582ccc",
+  "size": 93251357,
+  "notes": "Clean selected-pattern rendering, neutral bridge shadows, and move/size/mirror controls enabled for multiple selected patterns."
 }
