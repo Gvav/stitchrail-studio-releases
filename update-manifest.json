@@ -1,7 +1,7 @@
 {
-  "version": "0.3.18",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.18/StitchRail-Studio-Setup-0.3.18.exe",
-  "sha256": "109e443cefc41fa4aca44b2e5d180d44d322cfb33bfce3432237d4192f80fc79",
-  "size": 93269714,
-  "notes": "Side-opening STEP export, reliable off-board drawing, independent pattern selection, attached spline controls, and smoother spline geometry."
+  "version": "0.3.19",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.19/StitchRail-Studio-Setup-0.3.19.exe",
+  "sha256": "30a259e5caf79d3158db09e7f21976f153f50d27dec9f71f5cf83bc2715fda9f",
+  "size": 93261577,
+  "notes": "Y-axis mirroring, editable three-handle circles and half-circles, safe repeated scaling, independent duplicates, and bridge placement shadows."
 }
