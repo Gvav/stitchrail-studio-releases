@@ -1,7 +1,7 @@
 {
-  "version": "0.3.17",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.17/StitchRail-Studio-Setup-0.3.17.exe",
-  "sha256": "f61f1103bd7a788bb95bae01454846e4f573782b8f63f07ba1daf274bc85f4f3",
-  "size": 93242747,
-  "notes": "Multi-point smooth spline waves, editable spline control nodes, grouped drag and arrow movement, and responsive imported SVG movement."
+  "version": "0.3.18",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.18/StitchRail-Studio-Setup-0.3.18.exe",
+  "sha256": "109e443cefc41fa4aca44b2e5d180d44d322cfb33bfce3432237d4192f80fc79",
+  "size": 93269714,
+  "notes": "Side-opening STEP export, reliable off-board drawing, independent pattern selection, attached spline controls, and smoother spline geometry."
 }
