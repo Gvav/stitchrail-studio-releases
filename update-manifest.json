@@ -1,7 +1,7 @@
 {
-  "version": "0.3.20",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.20/StitchRail-Studio-Setup-0.3.20.exe",
-  "sha256": "307ba61d45917fd7e64d4a032e06c48408cf3c32fe734af0bdb0f2c913582ccc",
-  "size": 93251357,
-  "notes": "Clean selected-pattern rendering, neutral bridge shadows, and move/size/mirror controls enabled for multiple selected patterns."
+  "version": "0.3.21",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.21/StitchRail-Studio-Setup-0.3.21.exe",
+  "sha256": "7f04290e76cf519588479361656fa2240c80695522a4639817324434db0612c0",
+  "size": 93253342,
+  "notes": "Free off-board pattern alignment, duplicate left and right, orange selection highlights, and removal of gray connector shading."
 }
