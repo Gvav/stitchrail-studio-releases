@@ -1,7 +1,7 @@
 {
-  "version": "0.3.16",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.16/StitchRail-Studio-Setup-0.3.16.exe",
-  "sha256": "dd436ad619b737582adb490cf612e03f0ec33d9e9768efb45920413b0ca9d30b",
-  "size": 93250973,
-  "notes": "Repeat-aware resizing, X-axis mirroring, editable spline arches and circles, Shift multi-selection, separate SVG path selection, and an explicit rectangle-select tool."
+  "version": "0.3.17",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.17/StitchRail-Studio-Setup-0.3.17.exe",
+  "sha256": "f61f1103bd7a788bb95bae01454846e4f573782b8f63f07ba1daf274bc85f4f3",
+  "size": 93242747,
+  "notes": "Multi-point smooth spline waves, editable spline control nodes, grouped drag and arrow movement, and responsive imported SVG movement."
 }
