@@ -1,7 +1,7 @@
 {
-  "version": "0.3.14",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.14/StitchRail-Studio-Setup-0.3.14.exe",
-  "sha256": "d2891eb014a1c5342bd9f743fb2a7ca5228e9476154163395e7c0756a064eb0f",
-  "size": 93241411,
-  "notes": "Premade patterns retain their shape when moved; normal drag moves the whole pattern and Alt-drag reshapes a point."
+  "version": "0.3.15",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.15/StitchRail-Studio-Setup-0.3.15.exe",
+  "sha256": "c0218aaf12ebe8efc867a02484549bcd8682c611eab7821fb84dcfbd85c8cda5",
+  "size": 93275986,
+  "notes": "Stable X-axis repeat movement, multiple patterns per board, true uniform pattern scaling, clean freehand previews, and gradual repeat-edge blending."
 }
