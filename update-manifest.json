@@ -1,7 +1,7 @@
 {
-  "version": "0.3.21",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.21/StitchRail-Studio-Setup-0.3.21.exe",
-  "sha256": "7f04290e76cf519588479361656fa2240c80695522a4639817324434db0612c0",
-  "size": 93253342,
-  "notes": "Free off-board pattern alignment, duplicate left and right, orange selection highlights, and removal of gray connector shading."
+  "version": "0.3.22",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.22/StitchRail-Studio-Setup-0.3.22.exe",
+  "sha256": "4ee93ee10a6f7f6998c2705a3a2016f5d4a20e5a187a0fb0ec5afc8e5af28fc7",
+  "size": 93271974,
+  "notes": "Per-pattern Free Move and Repeat Move modes with saved mode selection and seamless horizontal wrapping."
 }
