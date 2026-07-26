@@ -1,7 +1,7 @@
 {
-  "version": "0.3.27",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.27/StitchRail-Studio-Setup-0.3.27.exe",
-  "sha256": "b152d45a4cf63fb6202c862f70c0dbf6b61efe64a1aede3ae020753eca782d67",
-  "size": 93258350,
-  "notes": "Compact 2x2 registration frequency controls that keep the sidebar width stable when settings are opened."
+  "version": "0.3.28",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.28/StitchRail-Studio-Setup-0.3.28.exe",
+  "sha256": "9ccb373af95fcf6a556962982c9af2e83cd05bee34550923902fae18d77b10ec",
+  "size": 93259440,
+  "notes": "Smoother, direction-independent edit-point dragging with adaptive curve deformation."
 }
