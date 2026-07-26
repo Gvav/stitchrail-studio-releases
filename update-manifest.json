@@ -1,7 +1,7 @@
 {
-  "version": "0.3.25",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.25/StitchRail-Studio-Setup-0.3.25.exe",
-  "sha256": "dcef123577e2c5f876528bde1b228518c6a9e23f8b6be3b59576b264d0317af8",
-  "size": 93280371,
-  "notes": "Collapsible board settings, visual mirror and duplicate controls, direct visible-point editing, theme-aware board colors, project-name save defaults, toolbar Delete/Clear, and STEP-only exports."
+  "version": "0.3.26",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.26/StitchRail-Studio-Setup-0.3.26.exe",
+  "sha256": "38bbbef173f0283976edfec879a261e160f1d7f7754a5463db05fb42fa2fd115",
+  "size": 93293459,
+  "notes": "Ctrl+A Select All, fixed sidebar tabs, collapsible registration and bridge settings, and smooth local deformation when dragging pattern handles."
 }
