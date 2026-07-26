@@ -1,7 +1,7 @@
 {
-  "version": "0.3.23",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.23/StitchRail-Studio-Setup-0.3.23.exe",
-  "sha256": "9fac5ca36640678055ed385b3230046237d587aecae8be5bb1277aed2bee4731",
-  "size": 93267037,
-  "notes": "Responsive small-screen tool palette, faster interactive editing, grouped settings undo, cached previews, and developer architecture documentation."
+  "version": "0.3.24",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.24/StitchRail-Studio-Setup-0.3.24.exe",
+  "sha256": "654ebb7ad3be93026ba2259dca92a1dcb69e837fac15972513b356c6b3773e3c",
+  "size": 93253622,
+  "notes": "Gradual tangent-matched repeat seams, pointer-centered zoom with board recovery, off-board freehand entry, and quick Select workflow."
 }
