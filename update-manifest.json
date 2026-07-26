@@ -1,7 +1,7 @@
 {
-  "version": "0.3.26",
-  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.26/StitchRail-Studio-Setup-0.3.26.exe",
-  "sha256": "38bbbef173f0283976edfec879a261e160f1d7f7754a5463db05fb42fa2fd115",
-  "size": 93293459,
-  "notes": "Ctrl+A Select All, fixed sidebar tabs, collapsible registration and bridge settings, and smooth local deformation when dragging pattern handles."
+  "version": "0.3.27",
+  "installer_url": "https://github.com/Gvav/stitchrail-studio-releases/releases/download/v0.3.27/StitchRail-Studio-Setup-0.3.27.exe",
+  "sha256": "b152d45a4cf63fb6202c862f70c0dbf6b61efe64a1aede3ae020753eca782d67",
+  "size": 93258350,
+  "notes": "Compact 2x2 registration frequency controls that keep the sidebar width stable when settings are opened."
 }
